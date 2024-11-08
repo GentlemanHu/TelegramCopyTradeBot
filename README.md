@@ -1,4 +1,5 @@
 # 🤖 TelegramCopyTradeBot
+> currently poor version Cornix alternative, only auto order works(Binance), OKX not tested
 
 [English](README.md) | [中文](README_CN.md)
 
