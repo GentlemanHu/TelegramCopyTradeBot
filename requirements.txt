@@ -1,0 +1,23 @@
+# Core dependencies
+python-telegram-bot
+telethon
+ccxt
+openai
+python-dotenv
+numpy
+pandas
+
+# Technical analysis
+# TA-Lib==0.4.28  # Requires special installation
+
+# Utility packages
+python-dateutil
+pytz
+aiohttp
+asyncio
+
+# Development dependencies
+pytest
+pytest-asyncio
+
+httpx[socks]
