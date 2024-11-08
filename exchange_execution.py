@@ -1620,9 +1620,3 @@ USDT Amount: {zone_amount}
                 
             await asyncio.sleep(1)
         
-
-# Initialize logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
