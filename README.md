@@ -11,8 +11,13 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-Latest-blue.svg)](https://core.telegram.org/bots/api)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Maintainability](https://api.codeclimate.com/v1/badges/your-maintainability-key/maintainability)](https://codeclimate.com/github/GentlemanHu/TelegramCopyTradeBot/maintainability)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/GentlemanHu/TelegramCopyTradeBot/issues)
+
+[![GitHub stars](https://img.shields.io/github/stars/GentlemanHu/TelegramCopyTradeBot?style=flat-square)](https://github.com/GentlemanHu/TelegramCopyTradeBot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/GentlemanHu/TelegramCopyTradeBot?style=flat-square)](https://github.com/GentlemanHu/TelegramCopyTradeBot/network)
+[![GitHub issues](https://img.shields.io/github/issues/GentlemanHu/TelegramCopyTradeBot?style=flat-square)](https://github.com/GentlemanHu/TelegramCopyTradeBot/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/GentlemanHu/TelegramCopyTradeBot?style=flat-square)](https://github.com/GentlemanHu/TelegramCopyTradeBot/pulls)
+
 
 An intelligent cryptocurrency copy trading bot based on Telegram, featuring multi-exchange support, GPT signal analysis, and automated trading execution.
 
