@@ -3,6 +3,10 @@
 
 [English](README.md) | [中文](README_CN.md)
 
+<div align="center">
+  <img src="assets/flow.gif" alt="Trading Flow" width="100%">
+</div>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-Latest-blue.svg)](https://core.telegram.org/bots/api)
@@ -124,6 +128,27 @@ TelegramCopyTradeBot/
 - [ ] Real-time position monitoring
 - [ ] Automatic risk alerts
 - [ ] Risk-based position closing
+
+
+
+## Some usage guide
+
+### Monitoring Channels
+<div align="center">
+  <img src="assets/monitor_channel.png" alt="Monitor Channels" width="80%">
+</div>
+
+### Signal Analysis
+<div align="center">
+  <img src="assets/signals.png" alt="Signal Analysis" width="80%">
+</div>
+
+### Help and Commands
+<div align="center">
+  <img src="assets/help.png" alt="Help Commands" width="80%">
+</div>
+
+
 
 ## 🤝 Contributing
 
