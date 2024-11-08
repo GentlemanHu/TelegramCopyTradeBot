@@ -165,3 +165,63 @@ If you find this project helpful, please consider supporting its development:
 ---
 
 ⭐ Star this repo if you find it helpful!
+
+
+
+---
+
+# ⚠️ Risk Warning and Disclaimer
+
+---
+
+## <a name="warning"></a>⚠️ RISK WARNING
+
+```diff
+- HIGH RISK INVESTMENT WARNING
+```
+
+Trading cryptocurrency involves substantial risk of loss and is not suitable for all investors. Please consider carefully whether such trading is suitable for you based on your financial condition and understanding of cryptocurrency markets.
+
+### 🚨 Important Notice
+
+1. **High Risk Investment**
+   - Cryptocurrency trading is highly speculative
+   - You may lose all your invested capital
+   - Past performance is not indicative of future results
+
+2. **Bot Trading Risks**
+   - Automated trading systems may malfunction
+   - Technical failures could lead to losses
+   - Market conditions may change rapidly
+
+3. **No Financial Advice**
+   - This software is for information purposes only
+   - Not financial or investment advice
+   - Always conduct your own research
+
+### 📜 Disclaimer
+
+By using this software, you acknowledge and agree that:
+
+1. The creators and contributors of this software:
+   - Are not financial advisors
+   - Make no guarantees about trading results
+   - Accept no responsibility for your trading decisions
+   
+2. You are solely responsible for:
+   - Your trading decisions
+   - Your API keys security
+   - Managing your risk
+   - Any resulting profits or losses
+
+3. This software:
+   - May contain bugs or errors
+   - Could cease functioning at any time
+   - Provides no guarantee of profit
+
+---
+
+<div align="center">
+<h3>⚠️ USE AT YOUR OWN RISK | 风险自负 ⚠️</h3>
+<sup>The software is provided "as is", without warranty of any kind.</sup>
+</div>
